@@ -1,0 +1,14 @@
+数据级：100000,,,,,,
+Options,-o0,o1,o2,o3,o4,ofast
+,,,,,,
+BubbleTimes,24.021024 sec,25.260977 秒,23.357615 秒,23.522275 秒,23.853283 秒,24.367005 秒
+HeapTimes,0.029030 sec,0.034788 秒,0.029188 秒,0.031583 秒,0.028366 秒,0.030149 秒
+FibbTimes,0.110880 秒,0.080461 秒,0.217169 秒,0.104078 秒,0.084704 秒,0.130947 秒
+AllTimes,24.161037 秒,25.376795 秒,23.604051 秒,23.658023 秒,23.966437 秒,24.528177 秒
+User CPU time used,24.084300 sec, 25.370091 sec, 23.489478 sec, 23.639515 sec, 23.960297 sec, 24.475010 sec
+System CPU time used,0.087508 sec,0.013252 sec,0.119230 sec, 0.024442 sec,0.011263 sec,0.057426 sec
+Maximum resident set size,6904 KB,6904 KB, 7220 KB,7216 KB, 7216 KB,7216 KB
+Minor page faults,1490,1490,1491,1489,1489,1489
+Major page faults,0,0,0,0,0,0
+Voluntary context switches,1,0,0,0,0,0
+Involuntary context switches,233,64,75,61,106,63
