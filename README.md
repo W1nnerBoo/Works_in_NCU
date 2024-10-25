@@ -1,0 +1,9 @@
+这是一个工作文档合集
+在NCUSCC文件夹中，algo.c是所有步骤实现的源代码
+而algo后面的数字即代表不同的编译优化选项，其中f为-ofast
+testnumber.c是用于生成随机数的代码
+而test_data.txt是上行代码所生成的文件
+algo.c中所有随机数的调用依赖于test_data.txt
+fool.csv为不同编译优化选项下导入的数据；包括每个算法编译的时间，cpu时间，和内存占用等
+而pic.cy是根据fool.csv所画出的图像
+祝你阅读愉快
